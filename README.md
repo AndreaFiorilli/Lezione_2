@@ -1,1 +1,1 @@
-# Lezione_2
+# Lezione_2.py
